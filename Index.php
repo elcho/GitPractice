@@ -10,5 +10,9 @@ class Something
 {
     public $aVar = 'hello';
 
-    public $b = 'first comit after revert';
+    public $b = 'first commit after revert';
+
+    public $c = 'second commit after revert';
+
+
 }
