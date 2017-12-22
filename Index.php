@@ -9,4 +9,6 @@
 class Something
 {
     public $aVar = 'hello';
+
+    public $b = 'first comit after revert';
 }
