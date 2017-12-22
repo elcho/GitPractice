@@ -9,6 +9,4 @@
 class Something
 {
     public $aVar = 'hello';
-
-    public $bVar = 'hello again';
 }
